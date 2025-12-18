@@ -26,7 +26,7 @@ product-family:
   - title: 工作负载
     tags: data services
   tiles:
-  - title: 设置和管理
+  - title: NetApp Console管理
     icon: "./media/icon-admin.png"
     url: "../console-setup-admin/index.html"
     summary: 了解如何开始使用NetApp Console，包括设置访问管理和代理。
