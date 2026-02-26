@@ -29,7 +29,7 @@ product-family:
   - title: NetApp Console管理
     icon: "./media/icon-admin.png"
     url: "../console-setup-admin/index.html"
-    summary: 了解如何开始使用NetApp Console，包括设置访问管理和代理。
+    summary: 了解如何开始使用 NetApp Console，包括设置访问管理和 Console 代理。
     tags: all, console, agents
   - title: NetApp Data Services
     icon: "./media/icon-backup.png"
@@ -56,6 +56,11 @@ product-family:
     url: https://docs.netapp.com/us-en/netapp-automation/solutions/bac-overview.html
     summary: 使用脚本解决方案来自动化NetApp产品和服务的部署和集成。
     tags: all,governance
+  - title: Data Infrastructure Insights
+    icon: "./media/icon-compute.png"
+    url: https://docs.netapp.com/us-en/data-infrastructure-insights/task_cloud_insights_onboarding_1.html
+    tags: all,governance
+    summary: 监控、故障排除和优化所有资源，包括公共云和私有数据中心。
   - title: 数字顾问（Active IQ）
     icon: "./media/icon-activeiq.png"
     url: "../active-iq/index.html"
