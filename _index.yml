@@ -91,3 +91,7 @@ product-family:
     url: https://docs.netapp.com/us-en/active-iq/learn_BlueXP_sustainability.html
     summary: 监控系统对环境的影响以实现可持续发展目标。
     tags: all,health
+  - title: Well-architected 仪表板
+    url: https://docs.netapp.com/us-en/console-well-architected/index.html
+    summary: 根据最佳实践维护可靠、安全、高效且经济高效的存储配置。
+    tags: all,health,storage

@@ -13,6 +13,7 @@
 
 
 
+[[support-registration-overview]]
 == 支持注册概述
 
 激活支持权利的注册方式有两种：
@@ -31,12 +32,14 @@
 
 
 
+[[register-netapp-console-for-netapp-support]]
 == 注册NetApp Console以获取NetApp支持
 
 要注册支持并激活支持权利，您的NetApp Console帐户中的一名用户必须将NetApp支持站点帐户与其控制台登录名关联。如何注册NetApp支持取决于您是否已经拥有NetApp支持站点 (NSS) 帐户。
 
 
 
+[[existing-customer-with-an-nss-account]]
 === 拥有 NSS 帐户的现有客户
 
 如果您是拥有 NSS 帐户的NetApp客户，则只需通过控制台注册即可获得支持。
@@ -56,6 +59,7 @@
 
 
 
+[[existing-customer-but-no-nss-account]]
 === 现有客户但没有 NSS 账户
 
 如果您是现有的NetApp客户，拥有现有许可证和序列号但没有 NSS 帐户，则需要创建一个 NSS 帐户并将其与您的控制台登录关联。
@@ -72,6 +76,7 @@
 
 
 
+[[brand-new-to-netapp]]
 === NetApp全新产品
 
 如果您是NetApp新用户并且没有 NSS 帐户，请按照以下步骤操作。
@@ -108,6 +113,7 @@ NetApp应该在此过程中与您联系。这是针对新用户的一次性入�
 
 
 
+[[associate-nss-credentials-for-cloud-volumes-ontap-support]]
 == 关联 NSS 凭据以获得Cloud Volumes ONTAP支持
 
 需要将NetApp支持站点凭据与您的控制台帐户关联，才能为Cloud Volumes ONTAP启用以下关键工作流程：
